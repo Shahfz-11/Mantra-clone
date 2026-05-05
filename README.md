@@ -1,1 +1,1 @@
-Project Mantra-clone
+Project Myntra-clone
